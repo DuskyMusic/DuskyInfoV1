@@ -43,5 +43,5 @@ Works only in bot's private chat
 - You Are Free To Use This Code In Any Of Your Projects, But You Must Include The Following In Your README.md (Copy & Paste)
 ```
 ##Credits
-- [Dusky's Telegram Information Bot By DuskyMusic] (https://github.com/DuskyMusic/DuskyInfoV1)
+- [Dusky's Telegram's User Information Bot By DuskyMusic] (https://github.com/DuskyMusic/DuskyInfoV1)
 ```
