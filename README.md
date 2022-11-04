@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/github/contributors/DuskyMusic/DuskyInfoV1?style=for-the-badge&color=green" alt="Contributors">
     <img src="https://img.shields.io/github/issues/teletips/DuskyMusic/DuskyInfoV1?style=for-the-badge&color=yellow" alt="Issues">
 </p>  
+
+#Deployments
 ### Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DuskyMusic/DuskyInfoV1)
