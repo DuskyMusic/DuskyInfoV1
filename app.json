@@ -1,0 +1,36 @@
+{
+    "name": "DuskyInfo",
+    "description": "I am here to provide Telegram information",
+    "repository": "https://github.com/DuskyMusic/DuskyInfo",
+    "logo": "https://telegra.ph/file/54719212c505f89953c39.jpg",
+    "keywords": [
+        "chat id",
+        "user id",
+        "chat information",
+        "user information",
+        "Telegram bot",
+        "Pyrogram bot"
+    ],
+    "env": {
+        "API_ID": {
+            "description": "Get from my.telegram.org/apps"
+        },
+        "API_HASH": {
+            "description": "Get from my.telegram.org/apps"
+        },
+        "BOT_TOKEN": {
+            "description": "Get from Telegram's @BotFather"
+        }
+    },
+    "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
