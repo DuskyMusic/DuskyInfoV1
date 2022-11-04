@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://telegra.ph/file/54719212c505f89953c39.jpg">
 </p>
+<p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
     <img src="https://img.shields.io/github/stars/DuskyMusic/DuskyInfoV1?style=for-the-badge&color=yellow" alt="Stars">
